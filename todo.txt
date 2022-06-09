@@ -487,5 +487,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "spider":"http://anglesgirl.github.io/0608.jar"
+    "spider":"https://github.com/liupinero/cat/raw/main/BL0608.jar"
 }
