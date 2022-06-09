@@ -22,7 +22,7 @@
 # 套Biubiu+LiteApple+七七+PushAgent规则
 //"spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/XBiubiuLA2.jar",
 # 套Biubiu修正+LiteApple+Kuaikan规则 (没有PushAgent)
-"spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/XBiubiuLA3.jar",
+"spider":"https://github.com/liupinero/cat/raw/main/XBiubiuLA3.jar",
 
 
 # 直播
