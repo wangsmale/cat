@@ -503,5 +503,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "http://10.0.0.2/BL0608.jar"
+  "spider": "https://github.com/liupinero/cat/raw/main/BL0608.jar"
 }
